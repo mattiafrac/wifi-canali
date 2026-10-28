@@ -4,26 +4,26 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>it</string>
+	<key>CFBundleDisplayName</key>
+	<string>Canali Wi‑Fi</string>
 	<key>CFBundleExecutable</key>
 	<string>WiFiCanali</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>it.mattia.wificanali</string>
 	<key>CFBundleName</key>
 	<string>Canali WiFi</string>
-	<key>CFBundleDisplayName</key>
-	<string>Canali Wi‑Fi</string>
-	<key>CFBundleIconFile</key>
-	<string>AppIcon</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>1.0.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
-	<key>LSMinimumSystemVersion</key>
-	<string>14.0</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.utilities</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
 	<key>NSHighResolutionCapable</key>
 	<true/>
 	<key>NSLocationUsageDescription</key>
