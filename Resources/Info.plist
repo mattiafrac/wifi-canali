@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>it</string>
+	<key>CFBundleExecutable</key>
+	<string>WiFiCanali</string>
+	<key>CFBundleIdentifier</key>
+	<string>it.mattia.wificanali</string>
+	<key>CFBundleName</key>
+	<string>Canali WiFi</string>
+	<key>CFBundleDisplayName</key>
+	<string>Canali Wi‑Fi</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSLocationUsageDescription</key>
+	<string>macOS mostra i nomi delle reti Wi‑Fi vicine solo alle app con accesso a Posizione. La posizione non viene letta né salvata.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>macOS mostra i nomi delle reti Wi‑Fi vicine solo alle app con accesso a Posizione. La posizione non viene letta né salvata.</string>
+</dict>
+</plist>
