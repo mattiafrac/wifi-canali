@@ -35,7 +35,7 @@ curl -fsSL "$URL" -o "$TMP/app.zip"
 ditto -x -k "$TMP/app.zip" "$TMP"
 
 # Se l'app è aperta, la chiudiamo prima di sostituirla.
-pkill -f "$APP_NAME/Contents/MacOS/WiFiCanali" 2>/dev/null || true
+pkill -f "$DEST/$APP_NAME/Contents/MacOS/WiFiCanali" 2>/dev/null || true
 rm -rf "$DEST/$APP_NAME"
 ditto "$TMP/$APP_NAME" "$DEST/$APP_NAME"
 # L'app non è notarizzata da Apple: togliamo l'attributo di quarantena, se presente,
